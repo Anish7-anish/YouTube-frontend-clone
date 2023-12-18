@@ -1,0 +1,54 @@
+p{
+  font-family: 'Lucida Sans';
+}
+.video-title {
+ 
+  font-weight: bold;
+  font-size: 18px;
+  width: 300px;
+  line-height: 26px;
+  margin-bottom: 5;
+}
+
+.Second-p {
+  
+  font-size: 15px;
+  color: #606060;
+  margin-top: 0;
+}
+
+
+.third-p {
+  
+  font-size: 15px;
+  color: #606060;
+}
+
+.fourth-p {
+ 
+  font-size: 14px;
+  color: #606060;
+  line-height: 22px;
+  width: 280px;
+  
+}
+
+
+.fifth-p {
+  margin-top: 50px;
+  font-size: 14px;
+  background-color: #e34140;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  
+  
+}
+
+.und {
+  cursor: pointer;
+}
+.und:hover {
+  text-decoration: underline;
+}
